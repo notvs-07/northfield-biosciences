@@ -1,0 +1,6 @@
+{
+  "name": "NorthField Biosciences",
+  "description": "Bilingual livestock health monitoring, daily milk yield tracking, vaccination scheduling, and Gemini AI symptom triage for farmers and veterinarians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
